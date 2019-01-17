@@ -1,0 +1,29 @@
+.container-wrapper{
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+.box1{
+  padding: 4rem 6rem;
+  text-align: center;
+  border-radius: 5px;
+  background: rgb(231, 87, 87);
+  color: #fff;
+  font-size: 2rem;
+}
+.box2{
+  padding: 4rem 6rem;
+  text-align: center;
+  border-radius: 5px;
+  background: rgb(47, 202, 73);
+  color: #fff;
+  font-size: 2rem;
+}
+.box3{
+  padding: 4rem 6rem;
+  text-align: center;
+  border-radius: 5px;
+  background: rgb(73, 71, 206);
+  color: #fff;
+  font-size: 2rem;
+}
